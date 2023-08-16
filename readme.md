@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    Myself <b>Md. Ashikul Islam</b>, a BSc Engineer of <b>Computer Science</b> undergraduate from <b>DAffodil International University</b>, Dhaka, Bangladesh.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    Myself <b>Md. Ashikul Islam</b>, a BSc Engineer of <b>Computer Science</b> undergraduate from <b> Daffodil International University</b>, Dhaka, Bangladesh.
+    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Digital Marketing Enthusiast.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
@@ -16,8 +16,8 @@
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
 - 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- 💡 Contributing to Open Source Projects is always been a goal for me.
+- ⚡ Fun fact: I love entertainment, especially thriller.
 <br>
 
 ---
