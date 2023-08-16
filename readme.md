@@ -49,7 +49,7 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+<a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
@@ -80,19 +80,19 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/iamashikulakash/">
+  <a href="https://www.linkedin.com/in/iamashikulakash/" target="blank">
    <img align="left" alt=" Ashikul Akash | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:meashikul@hotmail.com">
+  <a href="mailto:meashikul@hotmail.com" target="blank">
     <img align="left" alt="Ashikul Akash | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/meashikulakash/">
+  <a href="https://www.instagram.com/meashikulakash/" target="blank">
     <img align="left" alt="Ashikul Akash | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/iamashikulakash">
+   <a href="https://github.com/iamashikulakash" target="blank">
     <img align="left" alt="Ashikul Akash | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://www.ashikulakash.xyz/">
+  <a href="https://www.ashikulakash.xyz/" target="blank">
     <img align="left" alt="Ashikul Akash | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
