@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/iamashikulakash/">
   <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
 </a>
-<a href="https://iamashikulakash.github.io/">
+<a href="https://www.ashikulakash.xyz/">
   <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <a href="https://www.facebook.com/iamashikulakash">
@@ -102,7 +102,7 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
 
 <p align="center">
   <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray" />
+    <img align="center" src="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray" />
   </a>
   <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
