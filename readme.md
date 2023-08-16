@@ -1,90 +1,125 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Md. Ashikul Islam</h1>
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI+/+UX+Designer;Graphics+Designer;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+<h2>Hey, 🙏🏻, I'm Ashikul Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<br/>
+<div align = 'left'>
+<a href="https://twitter.com/nastikbrahmin">
+  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/pantanmol/">
+  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
+</a>
+<a href="https://anmolpant.github.io/">
+  <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
+</a>
+<a href="https://www.facebook.com/anmol.pant.3">
+  <img align="left" alt="anmolpant's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
+</a>
+<a href="(https://www.instagram.com/anmolpant/">
+  <img align="left" alt="anmolpant's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
+</a>
+<a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
+  <img align="left" alt="anmolpant's Spotify" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/spotify.png" />
+</a>
+<a href="https://leetcode.com/anmolpant/">
+  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png" />
+</a>
+<a href="https://github.com/anmolpant/anmolpant/blob/master/assets/Anmol's%20Resume.pdf">
+  <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
+</a>
+ <br /> <br />
 
-<p align="center">
-  <em>
-    Myself <b>Md. Ashikul Islam</b>, a BSc Engineer of <b>Computer Science</b> undergraduate from <b> Daffodil International University</b>, Dhaka, Bangladesh.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Digital Marketing Enthusiast.</b> 
-  <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
-</p>
+<p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/societe_generale_global_solution_centre/?originalSubdomain=in">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-<h3>Little facts about me 🧑</h3>
+- 🔭 I’m currently working on getting my shit together.
+- 🔮 What do I do? - Predict the future via computer science black magic.
+- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
+      conveyances for transporting people or goods...basically, I'm learning how to drive. 
+- 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
+- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
+- 💬 Ask me about: anything but my life.
+- 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
+- 😄 Pronouns: built/different
+- ⚡ Fun fact: Getting stabbed is very demotivating.
+- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
-- 💡 Contributing to Open Source Projects is always been a goal for me.
-- ⚡ Fun fact: I love entertainment, especially thrillers.
-<br>
 
----
+**Languages and Tools:** 
 
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/php/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<br>
-<br>
-
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-<a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<br>
-
----
-
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/iamashikulakash">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=iamashikulakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<p>
+  <a href="https://github.com/iamashikulakash/SaniText">
+    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamashikulakash&show_icons=true&hide_border=true" />
   </a>
-  <a href="https://github.com/iamashikulakash">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamashikulakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamashikulakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="iamashikulakash" /></p>
-</details>
-
----
-
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/iamashikulakash/" target="blank">
-   <img align="left" alt=" Ashikul Akash | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:meashikul@hotmail.com" target="blank">
-    <img align="left" alt="Ashikul Akash | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/meashikulakash/" target="blank">
-    <img align="left" alt="Ashikul Akash | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/iamashikulakash" target="blank">
-    <img align="left" alt="Ashikul Akash | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <a href="https://www.ashikulakash.xyz/" target="blank">
-    <img align="left" alt="Ashikul Akash | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
-  <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/iamashikulakash">Ashikul Aaksh</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash" /> </p>
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  
+</p>
+
+<div align="center">
+
+![VisitorCount](https://profile-counter.glitch.me/{iamashikulakash}/count.svg)
+
+</div>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const akash = {
+    pronouns: "Bro" | "Bruh",
+    code: ["Javascript", "HTML", "Python", "PhP", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Machine Learning", "Digital Marketing", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "jQuery"],
+            css: ["CSS3", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+        },
+        devOps: ["GCP"], ["Azure"]
+        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
+        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
+    },
+    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
+    funFact: "My jokes are a cry for help."
+};
+```
+
+Please do consider dropping a ⭐ for this repo and some of my recent projects. 🥺
+
+<p align="center">
+  <a href="[https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray](https://github.com/iamashikulakash/WebDevelopmentCourse)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray" />
+  </a>
+  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment](https://github.com/iamashikulakash/TensorFlow-2.x-YOLOv3)" />
+  </a>
+
+
+---
+
+## Need help?
+<i>Follow me around the web:</i><br>
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:meashikul@hotmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Akash](https://img.shields.io/github/followers/iamashikulakash?label=follow&style=social)](https://github.com/iamashikulakash) [![Portfolio](https://img.shields.io/badge/-iamashikulakash.github.io-242424?style=flat-square&logo=circle&logoColor=White)](https://iamashikulakash.github.io/) [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/iamashikulakash) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/iamashikulakash) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/iamashikulakash/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/iamashikulakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamashikulakash/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/iamashikulakash) 
+
+</p>
